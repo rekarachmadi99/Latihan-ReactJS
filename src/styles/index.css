@@ -1,0 +1,7 @@
+.active {
+  background-color: red;
+}
+
+.pending {
+  background-color: orange;
+}
